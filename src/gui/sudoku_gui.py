@@ -390,5 +390,5 @@ class GUI(STYLE):
         self.Entry_Queue.append([x,y])
         
     # def play(self):
-    #     playsound(file_path)
+    #     playsound('music/old-clock-chill-lofi-beats.mp3')
  

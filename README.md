@@ -4,3 +4,4 @@
 * Added feature: 
   * [Countdown timer](https://github.com/vydlt/Sudoku-Solver-Pro/blob/main/src/gui/function/timer.py) 
   * Image background
+  * Background music
